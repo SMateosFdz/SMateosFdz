@@ -1,6 +1,7 @@
 - Hi, I’m Santiago Mateos Fernández
 - I’m interested in Full Stack programming and data visualization
 - I’m currently learning Python, C and HTML
+- I'm currently finishing my degree in Computer Engineering
 - 📫 How to reach me: santiagomateosfernandez@gmail.com
 
 <!---
