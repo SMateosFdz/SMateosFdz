@@ -1,6 +1,6 @@
 - Hi, I’m Santiago Mateos Fernández
-- I’m interested in Full Stack programming, data visualization and databases
-- I'm currently finishing my degree in Computer Engineering
+- I’m interested in Full Stack programming, data visualization, databases and videogame development
+- I'm currently finishing my degree in Computer Engineering at University of Valladolid
 - 📫 How to reach me: santiagomateosfernandez@gmail.com
 
 <!---
