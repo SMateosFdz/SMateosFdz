@@ -4,6 +4,8 @@
 - 📫 How to reach me: santiagomateosfernandez@gmail.com
 - My web portfolio (currently under development): https://smateosfdz.github.io/Web-portfolio/
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,git,notion,py)](https://skillicons.dev)
+
 <!---
 snty181/snty181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
