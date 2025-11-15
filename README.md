@@ -1,6 +1,7 @@
 - Hi, I’m Santiago Mateos Fernández
-- I’m interested in Full Stack programming, data visualization, databases and videogame development
-- I'm currently finishing my degree in Computer Engineering at University of Valladolid
+- I am working as a Frontend Developer, working with Storybook, Stencil and React.
+- I am interested in Full Stack programming, data visualization, databases and videogame development
+- I have a degree in Computer Engineering from the University of Valladolid
 - 📫 How to reach me: santiagomateosfernandez@gmail.com
 - My web portfolio (currently under development): https://smateosfdz.github.io/Web-portfolio/
 
